@@ -1,0 +1,13 @@
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\bin\Debug\netcoreapp3.1\Joining_data_oop.exe
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\bin\Debug\netcoreapp3.1\Joining_data_oop.deps.json
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\bin\Debug\netcoreapp3.1\Joining_data_oop.runtimeconfig.json
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\bin\Debug\netcoreapp3.1\Joining_data_oop.runtimeconfig.dev.json
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\bin\Debug\netcoreapp3.1\Joining_data_oop.dll
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\bin\Debug\netcoreapp3.1\Joining_data_oop.pdb
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.csprojAssemblyReference.cache
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.AssemblyInfoInputs.cache
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.AssemblyInfo.cs
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.csproj.CoreCompileInputs.cache
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.dll
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.pdb
+C:\Users\harre\Desktop\Q2 Repos\Joining_data_oop\Joining_data_oop\obj\Debug\netcoreapp3.1\Joining_data_oop.genruntimeconfig.cache

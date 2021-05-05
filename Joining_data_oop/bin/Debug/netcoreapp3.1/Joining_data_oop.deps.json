@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Joining_data_oop/1.0.0": {
+        "runtime": {
+          "Joining_data_oop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Joining_data_oop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

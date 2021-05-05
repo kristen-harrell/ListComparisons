@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PRhyAsfXELuRF0wMWvJvPCG07OhkJYhxFIQjDBIVaeavJmefd41PjYub3aUUb/jUUhsNYUVPb14OKqiWKaKo/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harre\\Desktop\\Q2 Repos\\Joining_data_oop\\Joining_data_oop\\Joining_data_oop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
